@@ -39,6 +39,6 @@ Power BI: For data modeling, visualization, and dashboard creation
 
 MS Excel: To clean and structure the dataset
 
-🚀 How to Use
+How to Use
 Simply open the Power BI dashboard file to explore interactive visualizations and filter options by quarter or state.
 also included pdf for all THE INSIGHTS in detail. 
